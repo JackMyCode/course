@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "custom-header": "/components/custom-header/custom-header",
+    "nav-bar": "/components/nav-bar",
+    "doudi": "/components/doudi"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "子女信息",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "/components/nav-bar",
+    "custom-header": "/components/custom-header/custom-header"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "系统消息",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "custom-header": "/components/custom-header/custom-header",
+    "doudi": "/components/doudi",
+    "nav-bar": "/components/nav-bar"
+  }
+}

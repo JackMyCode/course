@@ -1,0 +1,1 @@
+<view class="data-v-203b0f2e"><view class="box data-v-203b0f2e" id="preBox"><progress percent="{{percentData}}" stroke-width="{{strokeWidth}}" border-radius="60" activeColor="{{activeColor}}" backgroundColor="{{backgroundColor}}" class="data-v-203b0f2e"></progress></view></view>

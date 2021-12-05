@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "版本信息",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "doudi": "/components/doudi"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "课程详情",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "/components/nav-bar",
+    "custom-header": "/components/custom-header/custom-header",
+    "rate": "/components/rate",
+    "progress-line": "/components/progress-line",
+    "doudi": "/components/doudi",
+    "u-parse": "/components/feng-parse/parse"
+  }
+}

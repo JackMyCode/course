@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "课程表",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "calendar": "/components/Li-Calendar/Li-Calendar"
+  }
+}

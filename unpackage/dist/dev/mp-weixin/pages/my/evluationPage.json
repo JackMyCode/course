@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "课程评价",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "rate": "/components/rate",
+    "nav-bar": "/components/nav-bar",
+    "custom-header": "/components/custom-header/custom-header"
+  }
+}

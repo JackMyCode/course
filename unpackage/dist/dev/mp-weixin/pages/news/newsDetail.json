@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "公告详情",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "/components/nav-bar",
+    "custom-header": "/components/custom-header/custom-header",
+    "doudi": "/components/doudi",
+    "u-parse": "/components/feng-parse/parse"
+  }
+}
